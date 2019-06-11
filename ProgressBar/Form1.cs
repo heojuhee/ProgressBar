@@ -16,5 +16,10 @@ namespace ProgressBar
         {
             InitializeComponent();
         }
+
+        private void ProgressBar1_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
